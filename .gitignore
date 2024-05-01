@@ -32,6 +32,6 @@ dist-ssr
 .DS_Store
 
 # Exclude .env file which contains sensitive information
-.env
+
 
 # Add other project-specific ignores below this line if needed
